@@ -27,6 +27,10 @@ code-wars/
 
 ### JavaScript:
 
+#### 5 kyu
+
+- [ROT13](/5kyu/rot13.js)
+
 #### 6 kyu
 
 - [Split Strings](/6kyu/split-strings.js)
