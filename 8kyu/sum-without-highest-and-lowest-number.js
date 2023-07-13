@@ -14,8 +14,10 @@
 
 // my solution
 function sumArray(array) {
-  return array
-    .sort((a, b) => a - b)
-    .slice(1, -1)
-    .reduce((acc, value) => acc + value, 0);
+  return !array
+    ? 0
+    : array
+        .sort((a, b) => a - b)
+        .slice(1, -1)
+        .reduce((acc, value) => acc + value, 0);
 }
