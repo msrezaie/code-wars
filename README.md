@@ -24,7 +24,7 @@ code-wars/
 └── ...
 
 ## List of Challenges
-
+Some examples of the challenges with their solutions
 ### JavaScript:
 
 #### 5 kyu
